@@ -1,0 +1,9 @@
+D:\大数据量\zint.core\ZintNet.Core\bin\Debug\netstandard2.0\ZintNet.Core.deps.json
+D:\大数据量\zint.core\ZintNet.Core\bin\Debug\netstandard2.0\ZintNet.Core.dll
+D:\大数据量\zint.core\ZintNet.Core\bin\Debug\netstandard2.0\ZintNet.Core.pdb
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.csprojAssemblyReference.cache
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.csproj.CoreCompileInputs.cache
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.AssemblyInfoInputs.cache
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.AssemblyInfo.cs
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.dll
+D:\大数据量\zint.core\ZintNet.Core\obj\Debug\netstandard2.0\ZintNet.Core.pdb
